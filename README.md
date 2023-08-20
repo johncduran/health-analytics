@@ -12,3 +12,4 @@ Enter age: 23
 Male body fat percentage: 12.807128027681664
 
 As you can see if will output the body fat as a float. 
+The only issues that would come up that I noticed would be if a float gets intputted into one of the variables or if a capitalized character gets inputted in the male or female variable
