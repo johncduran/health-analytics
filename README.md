@@ -11,4 +11,4 @@ Enter gender (male/female): male
 Enter age: 23
 Male body fat percentage: 12.807128027681664
 
-As you can see if will output the body fat as a float.
+As you can see if will output the body fat as a float. 
